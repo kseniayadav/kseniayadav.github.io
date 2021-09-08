@@ -19,7 +19,7 @@ Topics to be covered are flexible and will aim to address any knowledge gaps to 
 #### Timing and campus location: 
 
 **Room:** Canal Building 3101<br/>
-**Time:** Tuesdays 6:00 - 8:00 pm
+**Time:** Tuesdays 6:00 - 8:00 pm (starting September 14, 2021)
 
 <br/>
 ### Brightspace and online access information will be provided here by Tuesday, September 14, 2021.
