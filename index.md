@@ -18,7 +18,7 @@ Topics to be covered are flexible and will aim to address any knowledge gaps to 
 <br/>
 #### Timing and campus location: 
 
-**Room:** CB 3101<br/>
+**Room:** Canal Building 3101<br/>
 **Time:** Tuesdays 6:00 - 8:00 pm
 
 <br/>
