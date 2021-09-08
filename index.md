@@ -24,4 +24,5 @@ Topics to be covered are flexible and will aim to address any knowledge gaps to 
 <br/>
 ### Brightspace and online access information will be provided here by Tuesday, September 14, 2021.
 
+For more information, contact <a href="mailto:kseniayadav@cunet.carleton.ca">Ksenia Yadav</a>.
 
