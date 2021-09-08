@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Math Seminars
+## Math Seminars to Support 2nd and 3rd year ELEC courses
 
 These supplementary math skills seminars will focus on the review and applications of the following topics:
 
@@ -13,12 +13,14 @@ These supplementary math skills seminars will focus on the review and applicatio
 
 Topics to be covered are flexible and will target to address any knowledge gaps to allow you succeed in your core courses.
 
-To allow for interaction, the seminars will be held in-person, with an option to join remotely. 
+**To allow for interaction, the seminars will be held in-person, with an option to join remotely.**
 
-Timing and campus location: 
 
-Room: CB 3101
-Schedule: Tuesdays 6:00 - 8:00 pm
+#### Timing and campus location: 
 
-Brightspace and online access information will be provided here by Tuesday, September 14, 2021.
+**Room:** CB 3101
+**Schedule:** Tuesdays 6:00 - 8:00 pm
+
+### Brightspace and online access information will be provided here by Tuesday, September 14, 2021.
+
 
