@@ -4,7 +4,7 @@ layout: default
 
 ## Math Seminars 
 
-These supplementary math skills seminars have been developed to support 2nd and 3rd year ELEC courses. They will focus on the review and applications of the following topics:
+These supplementary math skills seminars have been specifically developed to support 2nd and 3rd year ELEC courses. They will focus on the review and applications of the following topics:
 
 1.  Complex number notations 
 2.  Number representation systems
@@ -15,13 +15,13 @@ Topics to be covered are flexible and will aim to address any knowledge gaps to 
 
 **The seminars will be held in-person, with an option to join remotely.**
 
-<br/><br/>
+<br/>
 #### Timing and campus location: 
 
 **Room:** CB 3101<br/>
 **Time:** Tuesdays 6:00 - 8:00 pm
 
-<br/><br/>
+<br/>
 ### Brightspace and online access information will be provided here by Tuesday, September 14, 2021.
 
 
