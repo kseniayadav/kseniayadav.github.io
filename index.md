@@ -15,6 +15,8 @@ Topics to be covered are flexible and will aim to address any knowledge gaps to 
 
 **The seminars will be held in-person, with an option to join remotely.**
 
+### To access Brightspace with more information, follow this <a href="https://brightspace.carleton.ca/d2l/le/discovery/view/course/96112">link</a> or search for "Math Seminars for ELEC Students" in the Brightspace Discover toolbar.
+
 <br/>
 #### Timing and campus location: 
 
@@ -22,7 +24,6 @@ Topics to be covered are flexible and will aim to address any knowledge gaps to 
 **Time:** Tuesdays 6:00 - 8:00 pm (starting September 14, 2021)
 
 <br/>
-### Brightspace and online access information will be provided here by Tuesday, September 14, 2021.
 
 For more information, contact <a href="mailto:kseniayadav@cunet.carleton.ca">Ksenia Yadav</a>.
 
